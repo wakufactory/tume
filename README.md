@@ -12,6 +12,6 @@ widthを指定したブロック要素に対して使う。
 
 ##サンプル
 
-[表示例](http://wakufactory.jp/html5/kumi/tume/tume.png)
+[表示例画像](http://wakufactory.jp/html5/kumi/tume/tume.png)
 
 [実働サンプル](http://wakufactory.jp/html5/kumi/tume/tume_sample.html)
